@@ -1,10 +1,9 @@
 # HC
 本项目意在维护各公司数据岗位信息招聘信息，方便大数据、数仓、数据开发和ETL码农互换东家。
 
-|---- 一级目录为公司域名
-   |---- 二级目录为职位信息
-      |----公司部门
+|---- 一级目录为职位信息
+   |---- 二级目录为公司域名
          |----岗位JD、薪资package range、各RD面试评价
-         
-zuoyebang/bigdata for dataware/大数据部
-zuoyebang/bigdata for realtime/大数据部
+		 
+		 
+		 有问题联系微信号：wangzl6676   邮件：wangzhilong0905@gmail.com
